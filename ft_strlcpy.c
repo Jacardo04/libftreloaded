@@ -1,6 +1,6 @@
 #include "libft.h"
 
-char *strcpy(char * dst, const char * src)
+char *strlcpy(char * dst, const char * src)
 {
     char *tmpdest;
     char *tmpsrc;
